@@ -1,4 +1,4 @@
-package com.example.JsonToPojoConverter;
+package com.jakuch.JsonToPojoConverter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

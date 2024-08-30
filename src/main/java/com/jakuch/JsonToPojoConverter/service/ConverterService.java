@@ -1,4 +1,4 @@
-package com.example.JsonToPojoConverter.service;
+package com.jakuch.JsonToPojoConverter.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sun.codemodel.JCodeModel;

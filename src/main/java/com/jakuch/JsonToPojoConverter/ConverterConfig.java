@@ -1,4 +1,4 @@
-package com.example.JsonToPojoConverter;
+package com.jakuch.JsonToPojoConverter;
 
 import org.jsonschema2pojo.*;
 import org.jsonschema2pojo.rules.RuleFactory;

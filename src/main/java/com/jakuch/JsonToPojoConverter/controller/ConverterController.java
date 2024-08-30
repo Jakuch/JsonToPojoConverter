@@ -1,7 +1,7 @@
-package com.example.JsonToPojoConverter.controller;
+package com.jakuch.JsonToPojoConverter.controller;
 
 
-import com.example.JsonToPojoConverter.service.ConverterService;
+import com.jakuch.JsonToPojoConverter.service.ConverterService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
